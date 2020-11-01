@@ -3,3 +3,6 @@
 
 #Gradle
 .gradle
+
+#Mac Os
+.DS_Store
